@@ -7,7 +7,7 @@
 
 ### Status ♻️
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Shamilhabeebnelli&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Shamilhabeebnelli&show_icons=true&include_all_commits=true&theme=onedark&cache_seconds=86400)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamilHabeebnelli&layout=compact&theme=onedark&cache_seconds=86400)](https://github.com/shamilhabeebnelli)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamilhabeebnelli&theme=onedark&cache_seconds=86400" alt="ShamilHabeeb" /></a> </p>
