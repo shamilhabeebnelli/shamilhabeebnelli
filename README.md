@@ -1,21 +1,21 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Shamil 𝕊𝕞𝕃</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Shamil Nelli</h1>
 
 ####
 - 🔭 I’m currently working on [**MwK Projects**](https://telegram.dog/mwkbots)
 - 🌱 I’m currently learning **Python, PHP, JS,, Go**
 - 💬 Ask me about **anything, I am happy to help.**
-- 👨‍💻 All of my projects are available at Telegram Page [𝕊𝕞𝕃](https://t.me/shamilnelli/6)
-- 📫 Reach Me Via [G-Mail](https://google.com/shamilhabeeb5)
-- ⚡ And Iam still Just **A Student.**
+- 👨‍💻 All of my projects are available at Telegram Page [Click Here](https://t.me/shamilnelli/6)
+- 📫 Reach Me Via [G-Mail](mailto:shamilhabeeb5@gmail.com)
+- ⚡ And Iam still Just **A Noob Lazy Student.**
 ####
 
 #### 📞 Contact me
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://telegram.me/shamilnelli" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
-<a href="https://instagram.com/shamilnelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shamil.habeeb_" height="30" width="40" /></a>
+<a href="https://instagram.com/shamil.nelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shamil.habeeb_" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UClP0fw_t0lOU1mYuL7gEa2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>
 <a href="https://wa.me/919496300461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="919496300461" height="30" width="40" /></a>
-<a href="https://shamilhabeeb5@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="shamilhabeeb5" height="30" width="40" /></a>
+<a href="mailto:shamilhabeeb5@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="shamilhabeeb5" height="30" width="40" /></a>
 <br>
 
 
