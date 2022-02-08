@@ -10,7 +10,7 @@
 ####
 
 #### 📞 Reach me
-[Telegram Shamil Nelli](https://t.me/shamilnelli) | [Instagram shamil.nelli](https://instagram.com/shamil.nelli) | [wa](https://wa.me/+919496300461) | [EMAIL shamilhabeeb5](mailto:shamilhabeeb5@gmail.com) | [Encodes SMLx265](https://t.me/smlx265) | [Telegram MWK Bots](https://t.me/mwkbots) | [Youtube SHAMIL](https://youtube.com/channel/UClP0fw_t0lOU1mYuL7gEa2g)
+[Telegram](https://t.me/shamilnelli) | [Instagram](https://instagram.com/shamil.nelli) | [WA.ME](https://wa.me/+919496300461) | [MAIL](mailto:shamilhabeeb5@gmail.com) | [Encodes](https://t.me/smlx265) | [Projects](https://t.me/mwkbots) | [Youtube](https://youtube.com/channel/UClP0fw_t0lOU1mYuL7gEa2g)
 
 
 ![Profile Visits](https://visitor-badge.laobi.icu/badge?page_id=HeimanPictures)
