@@ -1,13 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Shamil Nelli</h1>
 
-####
-- 🔭 I’m currently working on [**MwK Projects**](https://telegram.dog/mwkbots)
-- 🌱 I’m currently learning **Python, PHP, JS,, Go**
-- 💬 Ask me about **anything, I am happy to help.**
-- 👨‍💻 All of my projects are available at Telegram Page [Click Here](https://t.me/shamilnelli/6)
-- 📫 Reach Me Via [G-Mail](mailto:shamilhabeeb5@gmail.com)
-- ⚡ And Iam still Just **A Noob Lazy Student.**
-####
 
 #### 📞 Reach me
 [Telegram](https://t.me/shamilnelli) | [Instagram](https://instagram.com/shamil.nelli) | [WA.ME](https://wa.me/+919496300461) | [MAIL](mailto:shamilhabeeb5@gmail.com) | [Encodes](https://t.me/smlx265) | [Projects](https://t.me/mwkbots) | [Youtube](https://youtube.com/channel/UClP0fw_t0lOU1mYuL7gEa2g)
