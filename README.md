@@ -1,13 +1,27 @@
+# Hi, I'm Shamil Habeeb
 
+Home appliances sales expert from Kondotty, Kerala, India. I work in retail sales and customer support, with earlier work in CRM, real estate and graphic design.
 
-### Available 👇
-[Telegram](https://t.me/shamilnelli) | [Instagram](https://instagram.com/shamil.nelli) | [WA.ME](https://wa.me/+919496300461) | [MAIL](mailto:shamilhabeeb5@gmail.com) | [Encodes](https://t.me/smlx265) | [Projects](https://t.me/mwkbots) | [Youtube](https://youtube.com/channel/UClP0fw_t0lOU1mYuL7gEa2g)
+<img src="assets/globe.svg" width="18" alt=""> **Website:** [www.denelli.in](https://www.denelli.in)
+<br>
+<img src="assets/mail.svg" width="18" alt=""> **Email:** [ceo@denelli.in](mailto:ceo@denelli.in)
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shamilhabeebnelli/&title=Profile%20Visits)
+## <img src="assets/work.svg" width="22" alt=""> What I do
 
-### Status ♻️
+- **Home appliances sales** at Haier India Pvt Ltd (at myG), since June 2025: walk-in customers, product demonstrations and after-sales support.
+- **CRM Executive** at FAAST India Pvt Ltd (Amazon Associates), January 2024 to May 2025.
+- **Freelance** real estate agent, tele caller and designer (White Mart Real Estate, Kaloor) and graphic designer (Flavours Restaurant).
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Shamilhabeebnelli&show_icons=true&include_all_commits=true&theme=onedark&cache_seconds=86400)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamilHabeebnelli&layout=compact&theme=onedark&cache_seconds=86400)](https://github.com/shamilhabeebnelli)
+## <img src="assets/code.svg" width="22" alt=""> Code on this profile
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamilhabeebnelli&theme=onedark&cache_seconds=86400" alt="ShamilHabeeb" /></a> </p>
+Repositories on this profile are mostly Telegram bot and media tooling, published under MWK Projects. See each repo for its own authorship and license.
+
+- [MwK-Musics](https://github.com/shamilhabeebnelli/MwK-Musics) - Telegram voice chat music bot
+- [song-bot](https://github.com/shamilhabeebnelli/song-bot) - download YouTube songs as MP3 from Telegram
+- [TG-MegaBot](https://github.com/shamilhabeebnelli/TG-MegaBot) - Telegram bot for renaming, trimming, screenshots and URL uploads
+
+## Elsewhere
+
+<a href="https://www.denelli.in"><img src="assets/globe.svg" width="28" alt="Website"></a>&nbsp;
+<a href="https://instagram.com/shamil.nelli"><img src="assets/instagram.svg" width="28" alt="Instagram"></a>&nbsp;
+<a href="mailto:ceo@denelli.in"><img src="assets/mail.svg" width="28" alt="Email"></a>
