@@ -21,7 +21,7 @@ Current projects:
 - <a href="https://nelliupdates.denelli.in"><img src="assets/logo-n-mark.svg" width="18" alt="Nelli Updates logo"></a> [nelliupdates-site](https://github.com/shamilhabeebnelli/nelliupdates-site) - Nelli Updates news site
 - <a href="https://pos.denelli.in"><img src="https://raw.githubusercontent.com/shamilhabeebnelli/nadan-pos/main/logo.svg" width="18" alt="Nadan POS logo"></a> [Nadan POS](https://github.com/shamilhabeebnelli/nadan-pos) - offline shop sales tracker with daily targets, 7-day chart, WhatsApp report and GST quotations
 - <a href="https://multicalculator.denelli.in"><img src="https://raw.githubusercontent.com/shamilhabeebnelli/multi-calculator/main/logo.svg" width="18" alt="Multi Calculator logo"></a> [Multi Calculator](https://github.com/shamilhabeebnelli/multi-calculator) - EMI, currency, bill split, age, units and AC size calculators
-- <a href="https://keralafortune.denelli.in"><img src="https://raw.githubusercontent.com/shamilhabeebnelli/keraladaily/main/logo.svg" width="18" alt="keraladaily logo"></a> [keraladaily](https://github.com/shamilhabeebnelli/keraladaily) - free JSON API for Kerala daily rates: gold, silver, fuel and metals
+- <a href="https://keralafortune.denelli.in"><img src="https://raw.githubusercontent.com/shamilhabeebnelli/keraladaily/main/logo.svg" width="18" alt="keraladaily logo"></a> [keraladaily](https://github.com/shamilhabeebnelli/keraladaily) - free JSON API for Kerala weather, prayer times, INR rates and indicative spot-derived gold and silver prices
 
 Earlier Telegram bot projects under MWK Projects:
 - [MwK-Musics](https://github.com/shamilhabeebnelli/MwK-Musics) - Telegram voice chat music bot
