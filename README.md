@@ -15,10 +15,10 @@ Home appliances sales expert from Kondotty, Kerala, India. I work in retail sale
 ## <img src="assets/code.svg" width="22" alt=""> Code on this profile
 
 Current projects:
-- [PhotoFixer](https://github.com/shamilhabeebnelli/photofixer-site) - resize, crop and compress photos to exact pixel and KB limits ([photofixer.denelli.in](https://photofixer.denelli.in), [API](https://github.com/shamilhabeebnelli/photofixer-api))
-- [PDF Desk](https://github.com/shamilhabeebnelli/pdfeditor-site) - PDF editor: edit existing text, whiteout and add text ([pdfeditor.denelli.in](https://pdfeditor.denelli.in), [self-host API](https://github.com/shamilhabeebnelli/pdfeditor-api))
-- [denelli-portfolio-site](https://github.com/shamilhabeebnelli/denelli-portfolio-site) - source of my portfolio, [www.denelli.in](https://www.denelli.in)
-- [nelliupdates-site](https://github.com/shamilhabeebnelli/nelliupdates-site) - Nelli Updates news site ([nelliupdates.denelli.in](https://nelliupdates.denelli.in))
+- <a href="https://photofixer.denelli.in"><img src="https://raw.githubusercontent.com/shamilhabeebnelli/photofixer-site/main/src/PhotoFixer/wwwroot/logo.svg" width="18" alt="PhotoFixer logo"></a> [PhotoFixer](https://github.com/shamilhabeebnelli/photofixer-site) - resize, crop and compress photos to exact pixel and KB limits ([API](https://github.com/shamilhabeebnelli/photofixer-api))
+- <a href="https://pdfeditor.denelli.in"><img src="https://raw.githubusercontent.com/shamilhabeebnelli/pdfeditor-site/main/logo.svg" width="18" alt="PDF Desk logo"></a> [PDF Desk](https://github.com/shamilhabeebnelli/pdfeditor-site) - PDF editor: edit existing text, whiteout and add text ([self-host API](https://github.com/shamilhabeebnelli/pdfeditor-api))
+- <a href="https://www.denelli.in"><img src="https://raw.githubusercontent.com/shamilhabeebnelli/denelli-portfolio-site/main/logo-dark.png" width="18" alt="denelli.in logo"></a> [denelli-portfolio-site](https://github.com/shamilhabeebnelli/denelli-portfolio-site) - source of my portfolio
+- <a href="https://nelliupdates.denelli.in"><img src="https://raw.githubusercontent.com/shamilhabeebnelli/nelliupdates-site/main/logo-dark.png" width="18" alt="Nelli Updates logo"></a> [nelliupdates-site](https://github.com/shamilhabeebnelli/nelliupdates-site) - Nelli Updates news site
 
 Earlier Telegram bot projects under MWK Projects:
 - [MwK-Musics](https://github.com/shamilhabeebnelli/MwK-Musics) - Telegram voice chat music bot
