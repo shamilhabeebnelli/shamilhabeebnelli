@@ -19,6 +19,9 @@ Current projects:
 - <a href="https://pdfeditor.denelli.in"><img src="https://raw.githubusercontent.com/shamilhabeebnelli/pdfeditor-site/main/logo.svg" width="18" alt="PDF Desk logo"></a> [PDF Desk](https://github.com/shamilhabeebnelli/pdfeditor-site) - PDF editor: edit existing text, whiteout and add text ([self-host API](https://github.com/shamilhabeebnelli/pdfeditor-api))
 - <a href="https://www.denelli.in"><img src="assets/logo-head.svg" width="18" alt="denelli.in logo"></a> [denelli-portfolio-site](https://github.com/shamilhabeebnelli/denelli-portfolio-site) - source of my portfolio
 - <a href="https://nelliupdates.denelli.in"><img src="assets/logo-n-mark.svg" width="18" alt="Nelli Updates logo"></a> [nelliupdates-site](https://github.com/shamilhabeebnelli/nelliupdates-site) - Nelli Updates news site
+- <a href="https://pos.denelli.in"><img src="https://raw.githubusercontent.com/shamilhabeebnelli/nadan-pos/main/logo.svg" width="18" alt="Nadan POS logo"></a> [Nadan POS](https://github.com/shamilhabeebnelli/nadan-pos) - offline shop sales tracker with daily targets, 7-day chart, WhatsApp report and GST quotations
+- <a href="https://multicalculator.denelli.in"><img src="https://raw.githubusercontent.com/shamilhabeebnelli/multi-calculator/main/logo.svg" width="18" alt="Multi Calculator logo"></a> [Multi Calculator](https://github.com/shamilhabeebnelli/multi-calculator) - EMI, currency, bill split, age, units and AC size calculators
+- <a href="https://keralafortune.denelli.in"><img src="https://raw.githubusercontent.com/shamilhabeebnelli/keraladaily/main/logo.svg" width="18" alt="keraladaily logo"></a> [keraladaily](https://github.com/shamilhabeebnelli/keraladaily) - free JSON API for Kerala daily rates: gold, silver, fuel and metals
 
 Earlier Telegram bot projects under MWK Projects:
 - [MwK-Musics](https://github.com/shamilhabeebnelli/MwK-Musics) - Telegram voice chat music bot
